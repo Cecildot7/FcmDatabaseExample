@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "920100354890",
+    "firebase_url": "https://fcmintegration-e0912.firebaseio.com",
+    "project_id": "fcmintegration-e0912",
+    "storage_bucket": "fcmintegration-e0912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920100354890:android:675b86327f629c1b",
+        "android_client_info": {
+          "package_name": "com.example.manijee.fcmintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920100354890-7oatvsktoh954ef5gi5h525nlt1gllin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manijee.fcmintegration",
+            "certificate_hash": "be739b113950ae2e6ff1367f78d688b15102bd48"
+          }
+        },
+        {
+          "client_id": "920100354890-91csv7fvfkeq2kshbltv651gme4h4uak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzEkKHpblpmo69COnWnn2--pMpmgjtt7o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920100354890-91csv7fvfkeq2kshbltv651gme4h4uak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920100354890:android:1f8f4d195a3d6ae0",
+        "android_client_info": {
+          "package_name": "manigautam.app.fcmdatabaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920100354890-474ai4c75p75in7882q2vkdbsnkg69de.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "manigautam.app.fcmdatabaseexample",
+            "certificate_hash": "365517b0fad89e8addc4cb39c9f85ab64071411b"
+          }
+        },
+        {
+          "client_id": "920100354890-91csv7fvfkeq2kshbltv651gme4h4uak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzEkKHpblpmo69COnWnn2--pMpmgjtt7o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920100354890-91csv7fvfkeq2kshbltv651gme4h4uak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
